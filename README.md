@@ -1,6 +1,6 @@
-# canny-edge-detection
+# canny-hough-transform
 
-Use Canny algorithm from OpenCV for edge detection in images.
+Uses the Canny and Hough algorithms from OpenCV for edge detection and highlight in images.
 
 ### Sample
 
